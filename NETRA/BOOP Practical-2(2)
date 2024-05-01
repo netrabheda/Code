@@ -1,0 +1,22 @@
+#include<iostream>
+#include<iomainp>
+using namespace std;
+int main() {
+int n;
+int counter=1;
+cout << "enter a number of rows:";
+cin>>n;
+for(int i=1;i<=row;i++) 
+{
+for(int j=1;j<=i;j++) 
+{
+if(j<=n-i) {
+
+cout << " " << endl;
+}else{
+cout <<counter<<" ";
+counter=counter+1;
+}
+}
+cout<<endl;
+}
