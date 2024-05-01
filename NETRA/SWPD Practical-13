@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"content="width=#,initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<script src="script.js"></script>
+</body>
+</html>
+
+
+<!--(a)Find roots of quadratic equation-->
+let a=parseInt(prompt("enter a number"));
+let a=parseInt(prompt("enter b number"));
+let a=parseInt(prompt("enter c number")); 
+let disc=(b*b)-(h*a*c);
+if(disc>0){
+  let root 1=(-b+math.sqrt(disc))/(2*a);
+  let root 2=(-b+math.sqrt(disc))/(2*a);
+  console.log("the roots are real & different");
+  console.log("root 1=$(root 1.to fixed(2)}");
+}
+
+
+
+<!--(b)Find the highest from given three values-->
+let a = parseInt(prompt("enter 1st number"));
+let b = parseInt(prompt("enter 2st number"));
+let c = parseInt(prompt("enter 3st number"));
+let meta=a;
+if (b>max){
+  max=b;
+}
