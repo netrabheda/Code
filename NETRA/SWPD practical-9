@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang ="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <meta name="viewport"content="width=device-width,intial scale=1.0">
+</head>
+<body>
+  <h1>Student Registration</h1>
+  <label for="">full name:</label>
+  <input type ="text"><br>
+  <label for ="">student contact no:</label>
+  <input type ="text"><br>
+  <label for ="">parents no:</label>
+  <input type ="text"><br>
+  <label for ="">Email Address:</label>
+  <input type ="text"><br>
+  <label for ="">Gender:</label>
+  <input type="radio" value="male" name="gender">male
+  <input type="radio" value="female" name="gender">female
+  <input type="radio" value="others" name="gender">others
+  <br>
+  <label for="">Date of Birth:</label>
+  <input type="data"><br>
+  <label for ="">address</label>
+  <input type="text"><i.r>
+    <label for="">Branch:</label>
+    <select name=""id:"">
+      <option value="">computer</option>
+      <option value="">civil</option>
+      <option value="">mechenical</option>
+      <option value="">electrical</option>
+    </select>
+    <br>
+    <button>Register</button>
+    <h1>student feedback form</h1>
+    <fieldset><legend>student info captional</legend>
+      <label for="">Enrollment no:</label><input type="text"></filedset>
+    <fieldset><legend>faculty&subject Info</legend><label for="">
+      faculty name :
+    </label><select><option>KKM</option>
+                    <option>AMG</option>
+                    <option>YDP</option>
+                    <option>VKP</option>  </select><br>
+      
+      <label for="">subject selection</label>
+      <select><option>BDE</option>
+              <option>BOOP</option>
+              <option>SWPD</option>
+              <option>MATHS</option>
+              <option>PHY</option></select><br></fieldset>
+    <fieldset><legend><feedback></legned><label>syllbus covered-satistraction
+    </label><br><input type="radio">5
+                <input type="radio">4
+                <input type="radio">3
+                <input type="radio">0<br>
+      <label>topic-covered beyond syllbus-satisfaction</label><br>
+      <input type="radio">5
+      <input type="radio">4
+      <input type="radio">0<br></fieldset><br>
+      <buttom>submit feedback</buttom>
+    </body>
+    </html>
