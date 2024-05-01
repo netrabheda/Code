@@ -1,0 +1,12 @@
+#include<bits/std c++.h>
+using namespace std;
+//global variable
+int valuation=1000000;
+int main() {
+//local variable
+int valuation=100000;
+cout << "value of the variable valuation on in local
+scope:"<<valuation<<"\n";
+cout<<" value of the variable valuation in global
+scope:"<<::valuation<<"\n";
+return 0;}k
