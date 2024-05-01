@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset=UTF-8">
+    <meta http-equiv = "CONTENT-TYPE"Content="text/html;charset=UTF-8">
+    <title>my website</title>
+    </head>
+    <body>
+    <header>
+    <h1>welcome to my website</h1>
+    <nav>
+    <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Service</a></li>
+    <li><a href="#">Contact</a></li>
+    </ul>
+    </nav>
+    </header>
+    <main>
+    <section>
+    <h2>About us</h2>
+    <article>
+    <p>This is brief description of our company...</p>
+    </article>
+    <aside>
+    <h3>Latest new news</h3>
+    <p>Stay updated with our latest news and events...</p>
+    </aside>
+    </section>
+    
+    
+    <section>
+    <h2>our services</h2>
+    <article>
+    <p>Here are the service we offer...</p>
+    </article>
+    <aside>
+    <h3>Testimonials</h3>
+    <p>Read what our customers have to say about us...</p>
+    </aside>
+    </section>
+    </main>
+    <footer>
+    <p>&copy;2024 my website,all right reserved.</p>
+    </footer>
+    </body>
+    </html>
