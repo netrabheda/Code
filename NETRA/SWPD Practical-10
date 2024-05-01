@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang ="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <meta name="viewport"content="width=device-width,intial scale=1.0">
+</head>
+<body>
+  <h1>Bank Account opening from</h1>
+  <label>Full name :</label>
+  <input type="text"><br>
+  <label>Email :</label>
+  <input type="text"><br>
+  <label>Phone number:</label>
+  <input type="text"><br>
+  <label>ID proof:</label>
+  <input type="checkbox">Aadhat card
+  <input type="checkbox">Pan card
+  <input type="checkbox">Driving licence<br>
+  <label>addrrss proof:</label><br>
+  <input type="checkbox">Aadhar card
+  <input type="checkbox">Passport
+  <input type="checkbox">Lightbill
+  <input type="checkbox">Telephone bill <br>
+  <button>submit</button>
+</body>
+</html>
